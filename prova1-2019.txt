@@ -1,0 +1,65 @@
+Aluno: (SeuNome)
+Prova de Laboratorio de Sistemas Operacionais
+Professor: Alex Salgado
+1o. Semestre de 2019   Turno: Noite            AV1
+--------------------------------------------------
+Com relação aos comandos do SO Linux, responda as perguntas abaixo:
+
+0 - Após o comando clone, vá para a pasta labso.2019.1.av1.git (esta será a pasta principal da prova, 
+certifique que existe apenas uma pasta com esse nome)
+
+1 - Usando uma combinação dos comandos cat, tail e/ou head, crie uma linha de comando linux para exibir as linhas 100 a 110 do arquivo log/access.log
+Resposta (Cole aqui o(s) comandos utilizados): 
+
+
+
+2 - Renomear o arquivo prova1-2019.txt da sua pasta para prova1-seunome.txt 
+Ex.: prova1-alex.txt
+Resposta (Cole aqui o(s) comandos utilizados): 
+
+
+
+3 - Crie 3 arquivos em branco que comecem com seu nome e termina com uma 
+sequencia 1, 2 e 3. 
+Ex.: alex1.txt, alex2.txt, alex3.txt. Que comandos você utilizou?
+Resposta (Cole aqui o(s) comandos utilizados): 
+
+
+
+4 - Listar todos os arquivos vazios a partir da sua pasta principal e 
+direcionar a saida para o terceiro arquivo do item anterior.
+Resposta (Cole aqui o(s) comandos utilizados): 
+
+
+
+5 - Crie 1 pasta com seu nome+diadenascimento (ex.:alex25) e copie os 
+3 arquivos criandos anteriormente para esta pasta.
+Resposta (Cole aqui o(s) comandos utilizados): 
+
+
+
+
+6 - Utilizando wildcards, qual o comando para listar todos os arquivos 
+que comecem com seu nome e termina com o numeral de 1 a 3 com extensão .txt?
+Resposta (Cole aqui o(s) comandos utilizados): 
+
+
+
+
+7 - Qual o comando linux para mostrar todos os arquivos vazios da pasta atual?
+Resposta (Cole aqui o(s) comandos utilizados): 
+
+
+
+8 - Listar todo o conteudo (todos os arquivos e pastas)
+a partir de sua pasta principal e direcionar a saida 
+para o segundo arquivo do item 3.
+Resposta (Cole aqui o(s) comandos utilizados): 
+
+
+
+**************************************************************************************************
+
+Envio da Prova - Mostre o conteudo do arquivo ultimocomando.txt e siga as instruções contidas nele
+
+**************************************************************************************************
