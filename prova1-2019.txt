@@ -45,15 +45,15 @@ Resposta (Cole aqui o(s) comandos utilizados):
 
 
 
+7 - A partir de sua pasta original(item 0), usando o comando find do linux, 
+diga quantos diretórios existem cujo nome começa com "pasta"? 
+Resposta1 (comando linux usado): 
+Resposta2 (numero de diretórios encontrados) :
 
-7 - Qual o comando linux para mostrar todos os arquivos vazios da pasta atual?
-Resposta (Cole aqui o(s) comandos utilizados): 
 
 
-
-8 - Listar todo o conteudo (todos os arquivos e pastas)
-a partir de sua pasta principal e direcionar a saida 
-para o segundo arquivo do item 3.
+8 - A partir de sua pasta original(item 0), copiar a pasta1, pasta2 e pasta3 (e seu conteúdo) para 
+uma nova pasta chamada backup-seunome 
 Resposta (Cole aqui o(s) comandos utilizados): 
 
 
