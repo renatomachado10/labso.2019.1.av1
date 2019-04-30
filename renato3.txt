@@ -1,0 +1,13 @@
+ultimocomando.txt
+renato3.txt
+renato30
+renato2.txt
+renato1.txt
+README.md
+prova1-2019.txt
+pasta3
+pasta2
+pasta1
+log
+instrucoes.txt
+backup-renato
